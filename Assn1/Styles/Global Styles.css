@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.Banner {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 36px;
+	color: #FF0;
+	margin: 0px;
+	padding: 0px;
+	background-color: #00F;
+}
+#MenuBar1 {
+	cursor: pointer;
+}
+h5 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 18px;
+	background-color: #9FF;
+}
+#Agreement {
+	font-size: 16px;
+	background-color: #CCC;
+	margin: 5px;
+	padding: 0px;
+	
+}
+h2 {
+	font-family: "Comic Sans MS", cursive;
+}
+form {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 22px;
+	color: #063;
+}
+
+.Agreement {
+	border: medium solid #F00;
+}
+.link {
+	color: #F00;
+	cursor: pointer;
+}
+tr {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 18px;
+	color: #F00;
+	background-color: #9FF;
+}
+body {
+	font-family: "MS Serif", "New York", serif;
+	color: #06F;
+	font-size: 16px;
+}
+h1 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FF0;
+}
+h3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #00C;
+	font-weight: bold;
+}
+html {
+	background-attachment: scroll;
+	background-image: url(../Images/sand.jpg);
+	height: 100%;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	clip: rect(auto,auto,auto,auto);
+}
+.link2 {
+	font-size: 26px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #F00;
+	text-decoration: underline;
+	background-color: #0FF;
+	cursor: pointer;
+}
